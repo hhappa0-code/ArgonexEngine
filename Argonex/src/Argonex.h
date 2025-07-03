@@ -4,3 +4,4 @@
 
 #include "Argonex/Application.h"
 #include "Argonex/Entrypoint.h"
+#include "Argonex/Log.h"

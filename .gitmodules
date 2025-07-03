@@ -1,0 +1,3 @@
+[submodule "Argonex/vendor/spdlog"]
+	path = Argonex/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
